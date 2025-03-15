@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    min-height: 100vh;
+    font-family: "Lexend Deca", sans-serif;
+    padding: 3rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
